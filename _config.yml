@@ -1,0 +1,28 @@
+name: David Shirley
+favicon: null
+layout_spectrum: 0.6458663418889046
+typography_spectrum: 0.9267919780686498
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.38323414558544755
+  lightness: 0.9194674864411354
+  saturation: 0.4745572227984667
+  rhythmicContrast: 0.6781883372459561
+purpose: []
